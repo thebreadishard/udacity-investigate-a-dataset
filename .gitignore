@@ -12,7 +12,8 @@ __pycache__/
 .ipynb_checkpoints/
 
 # Generated report output
-Investigate_a_Dataset.html
+# NOTE: the HTML export is committed because the Udacity rubric requires the
+# reviewer to see the rendered report; only the PDF is ignored.
 Investigate_a_Dataset.pdf
 
 # Datasets not used in this project
