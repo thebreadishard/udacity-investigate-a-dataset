@@ -1,0 +1,24 @@
+# Virtual environment
+.venv/
+venv/
+env/
+
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Generated report output
+Investigate_a_Dataset.html
+Investigate_a_Dataset.pdf
+
+# Datasets not used in this project
+Database_Ncis_and_Census_data/
+Database_No_show_appointments/
+
+# OS files
+.DS_Store
+Thumbs.db
